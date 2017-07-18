@@ -1,5 +1,20 @@
 # Personal Bio Site
 
+## Setup
+
+Setting up your project the correct way will enable you to have a hosted website. 
+
+##### Create a GitHub repository with the name 'YOUR-GITHUB-USERNAME.github.io' (make sure to replace 'YOUR-GITHUB-USERNAME' with your ACTUAL username - ditto for the following steps). 
+
+```bash
+cd ~/workspace
+mkdir -p personal-bio-site && cd $_
+git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io
+cd YOUR-GITHUB-USERNAME.github.io
+```
+
+For more information on GitHub Pages [visit here](https://pages.github.com/). 
+
 ## Requirements
 
 Create a two page site for your own personal branding. As we continue through the front-end milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. (You may style to your heart's content but know that you can always update it later). 
