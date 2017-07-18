@@ -5,14 +5,7 @@
 > :warning: This exercise requires you to have completed the [Personal Bio Site 1: Professional History Page and Contact Page (HTML)
 ](personal-bio-site-1.md) exercise
 
-## Setup
-
-##### You will be working off of your previous iteration of your Personal Bio site. 
-
-```bash
-cd ~/workspace/personal-bio-site/YOUR-GITHUB-USERNAME.github.io
-touch main.css
-```
+### You will be working off of your previous iteration of your Personal Bio site. 
 
 ## Requirements
 
