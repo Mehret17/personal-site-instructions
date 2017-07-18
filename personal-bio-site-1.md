@@ -11,7 +11,7 @@ Create a two page site for your own personal branding. As we continue through th
 Basically an HTML version of your resume.
 
 1. Each place you've worked must be contained in an article element.
-1. Each article element should have a header that contains the name of the company and the dates of your employment. Ensure that the dates are semantically marked by being contained within the appropriate HTML element.
+1. Each article element should have a header that contains the name of the company and the dates of your employment. 
 1. Each article should contain at least one section that describes your position there.
 1. No footer required for these articles.
 
