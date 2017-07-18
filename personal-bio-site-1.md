@@ -6,13 +6,6 @@ Setting up your project the correct way will enable you to have a hosted website
 
 ##### Create a GitHub repository with the name 'YOUR-GITHUB-USERNAME.github.io' (make sure to replace 'YOUR-GITHUB-USERNAME' with your ACTUAL username - ditto for the following steps). 
 
-```bash
-cd ~/workspace
-mkdir -p personal-bio-site && cd $_
-git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io
-cd YOUR-GITHUB-USERNAME.github.io
-```
-
 For more information on GitHub Pages [visit here](https://pages.github.com/). 
 
 ## Requirements
