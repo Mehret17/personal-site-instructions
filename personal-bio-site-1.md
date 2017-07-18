@@ -19,7 +19,7 @@ Basically an HTML version of your resume.
 
 1. One article.
 1. A heading (e.g. "How to contact me").
-1. Four sections that contain a home address, a phone number, and two social media URLs.
+1. Four sections that contain an email address, GitHub link and two social media URLs. (Bonus points if you use images to link to each of these). 
 
 ### Common page elements
 
