@@ -25,4 +25,4 @@
 
 
 ## Final Result
-Video to be included.
+![Blog Jumbo](./images/Blog_Jumbo.gif)
