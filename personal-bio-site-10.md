@@ -10,3 +10,4 @@
     - Each project should have the at least the following: a screenshot, a discription, link to github. 
     - If your project is deployed, you should link to the deployed site.
 1. Make sure that you are not pushing up your Firebase Api Key
+1.  Deploy your site to firebase
