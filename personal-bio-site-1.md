@@ -1,4 +1,4 @@
-# Personal Bio Site 1: Professional History Page and Contact Page (HTML)
+# Personal Bio Site 1: Creating the HTML Structure
 
 ## Setup
 
