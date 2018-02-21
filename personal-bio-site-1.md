@@ -2,15 +2,11 @@
 
 ## Setup
 
-Setting up your project the correct way will enable you to have a hosted website. 
-
-##### Create a GitHub repository with the name 'YOUR-GITHUB-USERNAME.github.io' (make sure to replace 'YOUR-GITHUB-USERNAME' with your ACTUAL username - ditto for the following steps). 
-
-For more information on GitHub Pages [visit here](https://pages.github.com/). 
+Use the 'YOUR-GITHUB-USERNAME.github.io' repository that you have in ~/workspace/personalsite.  Create a branch on this repo called hw1.  Once you have completed the assignment create a PR and merge your code into master.
 
 ## Requirements
 
-Create a two page site for your own personal branding. As we continue through the front-end milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. (You may style to your heart's content but know that you can always update it later). 
+Create a three page site for your own personal branding. As we continue through the front-end milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. (You may style to your heart's content but know that you can always update it later). 
 
 ### Pages
 
@@ -28,6 +24,13 @@ Basically an HTML version of your resume.
 1. One article.
 1. A heading (e.g. "How to contact me").
 1. Four sections that contain an email address, GitHub link and two social media URLs. (Bonus points if you use images to link to each of these). 
+
+#### Projects page
+This space will eventually contain screenshots/links to projects we create in class.  It is your code portfolio.  For now add placeholders for 6 projects to this page.  Each project should have the following:
+1.  Image (for now you can use cute animal pictures)
+1.  Project title (make up some fake projects)
+1.  Description (create a fake paragraph for each project - you can use lorem ipsum for now)
+1.  Link tags to the project on github - for now link each tag to your personal site repo.
 
 ### Common page elements
 
